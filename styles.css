@@ -7,10 +7,18 @@ body {
     color: #ffffff;
     padding: 10px;
   }
+
+  #image {
+    
+    padding-bottom: 5px;
+    max-width: 500px;
+    max-height: 350px;
+    
+  }
   
   #game {
     max-width: 500px;
-    max-height: 400px;
+    max-height: 700px;
     background-color: #ffffff;
     color: #ffffff;
     margin: 30px auto 0px;
